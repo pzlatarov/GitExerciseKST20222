@@ -1,0 +1,8 @@
+\\Mac\Home\Desktop\MyRepository3\GitUnitTestDemo\bin\Debug\GitUnitTestDemo.exe.config
+\\Mac\Home\Desktop\MyRepository3\GitUnitTestDemo\bin\Debug\GitUnitTestDemo.exe
+\\Mac\Home\Desktop\MyRepository3\GitUnitTestDemo\bin\Debug\GitUnitTestDemo.pdb
+\\Mac\Home\Desktop\MyRepository3\GitUnitTestDemo\obj\Debug\GitUnitTestDemo.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\MyRepository3\GitUnitTestDemo\obj\Debug\GitUnitTestDemo.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\MyRepository3\GitUnitTestDemo\obj\Debug\GitUnitTestDemo.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\MyRepository3\GitUnitTestDemo\obj\Debug\GitUnitTestDemo.exe
+\\Mac\Home\Desktop\MyRepository3\GitUnitTestDemo\obj\Debug\GitUnitTestDemo.pdb
